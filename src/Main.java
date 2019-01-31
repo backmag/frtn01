@@ -10,5 +10,14 @@ public class Main {
         System.out.println("The speed of car1 is " + car1.getSpeed());
         System.out.println("There are " + Vehicle.getNumberOfVehicles() + " cars.");
         Vehicle.printSpeed(car2);
+
+        MarathonRunner runner = new MarathonRunner();
+        runner.setSpeed(10);
+        printSpeed(runner);
+
+    }
+
+    public static void printSpeed(Movable m) {
+        System.out.println("Speed = " + m.getSpeed());
     }
 }

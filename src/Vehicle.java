@@ -1,4 +1,4 @@
-public class Vehicle {
+public class Vehicle implements Movable {
     private String registrationNumber;
     private String model;
     private double speed = 0.0;
