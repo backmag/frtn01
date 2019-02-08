@@ -1,5 +1,5 @@
 
-public class Main {
+public class hockey {
 
     public static void hockey(String[] args) {
         Car car1;
