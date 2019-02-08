@@ -1,7 +1,7 @@
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void hockey(String[] args) {
         Car car1;
         Car car2;
         car1 = new Car("ABC111", "Volvo V70");
