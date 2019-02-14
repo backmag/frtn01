@@ -121,11 +121,10 @@ public class Regul extends Thread {
 
 				double u = 0.0;
 				if(isOn()) {
-					u = K*(r-y);
+					u = K * (r - y);
 				}
-				uOut.set(u);
-				rOut.set(r);
-
+					uOut.set(u);
+					rOut.set(r);
 				Thread.sleep(h);
 			}
 		} catch (InterruptedException ex) {

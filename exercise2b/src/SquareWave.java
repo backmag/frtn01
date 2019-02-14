@@ -17,6 +17,7 @@ public class SquareWave extends Thread {
 		}
 		public synchronized void setAmp(double amp) {
 			this.amp = Math.max(0,amp);
+			setRef();
 		}
 	}
 	
@@ -41,7 +42,7 @@ public class SquareWave extends Thread {
 		}
 	}
 	private void setRef() {
-		regul.setRef(ampMon.getAmp() * sign);
+			regul.setRef(ampMon.getAmp() * sign);
 	}
 	
 	// run method

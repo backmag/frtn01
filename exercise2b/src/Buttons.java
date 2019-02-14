@@ -27,23 +27,23 @@ public class Buttons extends Thread {
 	// run method
 	public void run() {
 		final int h = 10; // Time in ms between polls.
-		final double delta = 10 / (100*60); // Incrementation for each 10ms interval.
+		final double delta = (double) (10*h) / (100*60); // Incrementation for each 10ms interval.
 				try {
 					while(!Thread.interrupted()) {
-						if(onInput.get()) {
+						if (onInput.get()) {
 							regul.turnOn();
 						}
-						if(offInput.get()) {
+						if (offInput.get()) {
 							regul.turnOff();
 						}
-						if(incInput.get()) {
+						if (incInput.get()) {
 							square.incAmp(delta);
 						}
-						if(decInput.get()) {
+						if (decInput.get()) {
 							square.decAmp(delta);
 						}
+						Thread.sleep(h);
 					}
-					Thread.sleep(h);
 				} catch(InterruptedException ex) {
 					ex.printStackTrace();
 				}

@@ -10,8 +10,8 @@ public class main {
         FirstOrderProcess simulatedProcess = new FirstOrderProcess();
 
         Regul regul = new Regul(regulPriority, box, simulatedProcess);
-        // OpCom opcom = new OpCom(regul, opcomPriority);
-        GUIOpCom opcom = new GUIOpCom(regul,opcomPriority);
+        OpCom opcom = new OpCom(regul, opcomPriority);
+        // GUIOpCom opcom = new GUIOpCom(regul,opcomPriority);
         SquareWave squarewave = new SquareWave(regul, squarePriority);
         Buttons buttons = new Buttons(regul, squarewave, buttonsPriority, box);
 
