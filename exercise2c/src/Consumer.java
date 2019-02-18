@@ -1,7 +1,7 @@
 public class Consumer extends Thread {
-    private RingBuffer rb;
+    private RingBufferWithSemaphore rb;
 
-    public Consumer(RingBuffer rb) {
+    public Consumer(RingBufferWithSemaphore rb) {
         this.rb = rb;
     }
 

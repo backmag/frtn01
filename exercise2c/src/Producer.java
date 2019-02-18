@@ -1,7 +1,7 @@
 public class Producer extends Thread {
-    private RingBuffer rb;
+    private RingBufferWithSemaphore rb;
 
-    public Producer(RingBuffer rb) {
+    public Producer(RingBufferWithSemaphore rb) {
         this.rb = rb;
     }
     public void run() {
