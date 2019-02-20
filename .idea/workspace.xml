@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="594131f1-4b2d-405d-a5d5-063637e42c41" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise3/exercise3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise3/src/Beam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise3/src/BeamRegul.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise3/src/PI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise3/src/PIGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise3/src/PIParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise3/src/ReferenceGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2c/exercise2c.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2c/exercise2c.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2c/src/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2c/src/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2c/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2c/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2c/src/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2c/src/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise2c/src/RingBufferWithSemaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise2c/src/RingBufferWithSemaphore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise3/src/BeamRegul.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise3/src/BeamRegul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise3/src/PI.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise3/src/PI.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,10 +21,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise3/src/PI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+            <state relative-caret-position="253">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
               <folding>
-                <element signature="e#1296#1297#0" expanded="true" />
+                <element signature="e#1254#1255#0" expanded="true" />
+                <element signature="e#1298#1299#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercise3/src/BeamRegul.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="218">
+              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -54,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise3/src/Beam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2355">
-              <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+            <state relative-caret-position="525">
+              <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,21 +56,7 @@
         <entry file="file://$PROJECT_DIR$/exercise3/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise3/src/ReferenceGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3641#3642#0" expanded="true" />
-                <element signature="e#3667#3668#0" expanded="true" />
-              </folding>
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -89,7 +64,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise3/src/PIGUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
+            <state relative-caret-position="15">
               <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
             </state>
           </provider>
@@ -156,15 +131,15 @@
         <option value="$PROJECT_DIR$/exercise2c/src/Consumer.java" />
         <option value="$PROJECT_DIR$/exercise3/src/PIParameters.java" />
         <option value="$PROJECT_DIR$/exercise3/src/PIGUI.java" />
+        <option value="$PROJECT_DIR$/exercise3/src/Beam.java" />
+        <option value="$PROJECT_DIR$/exercise3/src/ReferenceGenerator.java" />
+        <option value="$PROJECT_DIR$/exercise3/src/Main.java" />
         <option value="$PROJECT_DIR$/exercise3/src/PI.java" />
         <option value="$PROJECT_DIR$/exercise3/src/BeamRegul.java" />
-        <option value="$PROJECT_DIR$/exercise3/src/Beam.java" />
-        <option value="$PROJECT_DIR$/exercise3/src/Main.java" />
-        <option value="$PROJECT_DIR$/exercise3/src/ReferenceGenerator.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -173,7 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,23 +159,17 @@
             <path>
               <item name="frtn01" type="b2602c69:ProjectViewProjectNode" />
               <item name="frtn01" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="frtn01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frtn01" type="462c0819:PsiDirectoryNode" />
-              <item name="exercise3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise3prep" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550484692385" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550656365168" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -223,10 +192,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PI">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="JavaRun" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Periodic" />
       <module name="frtn01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="exercise3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -266,6 +242,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.PI" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
@@ -297,9 +274,36 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49591836" visible="true" weight="0.2657512" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49591836" visible="true" weight="0.27382874" />
+      <window_info id="Structure" order="1" sideWeight="0.5040816" side_tool="true" weight="0.25767368" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5040816" side_tool="true" weight="0.25767368" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49434572" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49919224" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49192247" weight="0.26849315" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5056543" side_tool="true" visible="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49919224" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49591836" visible="true" weight="0.27382874" />
       <window_info id="Structure" order="1" sideWeight="0.5040816" side_tool="true" weight="0.25767368" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,7 +329,7 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Car.java" />
@@ -574,6 +578,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/awt/event/MouseListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise3/src/ReferenceGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="98" column="23" lean-forward="true" selection-start-line="98" selection-start-column="23" selection-end-line="98" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3641#3642#0" expanded="true" />
+            <element signature="e#3667#3668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise3/src/PIGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercise3/src/PIParameters.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -581,27 +611,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercise3/src/PIGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exercise3/src/PI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
-          <folding>
-            <element signature="e#1296#1297#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercise3/src/Beam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2355">
-          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
+        <state relative-caret-position="525">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -611,26 +624,25 @@
     <entry file="file://$PROJECT_DIR$/exercise3/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercise3/src/ReferenceGenerator.java">
+    <entry file="file://$PROJECT_DIR$/exercise3/src/PI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        <state relative-caret-position="253">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3641#3642#0" expanded="true" />
-            <element signature="e#3667#3668#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exercise3/src/BeamRegul.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="218">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
         </state>
       </provider>
     </entry>

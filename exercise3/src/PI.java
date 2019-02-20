@@ -8,14 +8,14 @@ public class PI {
     // Constructor
     public PI(String name) {
         p = new PIParameters();
-        p.K = 0;
+        p.K = 1;
         p.Ti = 0;
         p.Tr = 0;
-        p.Beta = 0;
-        p.H = 0;
+        p.Beta = 1;
+        p.H = 0.1;
         p.integratorOn = false;
-        new PIGUI(this,p,name);
         setParameters(p);       // Why would we need this?
+        new PIGUI(this,p,name);
         I = 0.0;
         v = 0.0;
         e = 0.0;
@@ -43,7 +43,7 @@ public class PI {
     // Returns the sampling interval expressed as a long.
     // Note: Explicit type casting needed
     public synchronized long getHMillis() {
-        return (long) (p.H * 1000);
+        return (long) (p.H * 1000.0);
     }
 
     // Sets the PIParameters.
@@ -54,10 +54,5 @@ public class PI {
         if(!p.integratorOn) {
             I = 0.0;
         }
-    }
-    public static void main(String[] args) {
-        PI pi = new PI("Regulator");
-
-
     }
 }
