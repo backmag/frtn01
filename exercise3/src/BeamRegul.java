@@ -43,7 +43,7 @@ public class BeamRegul extends Thread {
                 }
                 analogRef.set(ref);
                 t = t + controller.getHMillis();
-                long duration = t - System.currentTimeMillis(); // How can this be < 0 ?
+                long duration = t - System.currentTimeMillis();
                 if(duration > 0) {
                     try {
                         Thread.sleep(duration);
